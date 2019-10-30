@@ -1,0 +1,2 @@
+import "./bloque";
+import "./equipo";

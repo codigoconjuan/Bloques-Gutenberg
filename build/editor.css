@@ -1,0 +1,13 @@
+/** CSS para el editor unicamente **/
+div[class^="has-"] .nombre-integrante:focus {
+    color: white!important
+}
+div[class^="has-"] .nombre-integrante::placeholder{
+    color: white!important;
+}
+div[class^="has-blanco-text"] .nombre-integrante:focus{
+    color: black!important
+}
+div[class^="has-blanco-text"] .nombre-integrante::placeholder {
+    color: black!important
+}

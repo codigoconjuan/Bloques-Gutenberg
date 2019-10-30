@@ -1,0 +1,17 @@
+{
+  "name": "wordcamp2019-blocks",
+  "version": "1.0.0",
+  "description": "Crear Bloques de Gutenberg naivos",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "Juan De la torre @JuanDevWP",
+  "license": "ISC",
+  "devDependencies": {
+    "@svgr/webpack": "^4.3.3",
+    "@wordpress/scripts": "^5.1.0",
+    "url-loader": "^2.2.0"
+  }
+}

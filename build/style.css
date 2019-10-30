@@ -1,0 +1,56 @@
+/*  CSS para editor y Front end **/
+.contenedor {
+    max-width: 80%;
+    margin: 0 auto;
+}
+.nombre-integrante {
+    background-color: transparent;
+}
+.wp-block-wcgdl-equipo {
+    padding: 3rem 0!important
+}
+
+/** Colores **/
+.has-azul-text {
+    background-color: #0073a8;
+}
+
+.has-azul-oscuro-text{
+    background-color: #005075;
+}
+.has-negro-text{
+    background-color: black;
+}
+.has-gris-text{
+    background-color: #767676;
+}
+.has-blanco-text{
+    background-color: #FFF;
+}
+.has-azul-text h2,
+.has-azul-oscuro-text h2, 
+.has-negro-text h2,
+.has-gris-text h2,
+.has-azul-text .integrante p,
+.has-azul-oscuro-text .integrante p, 
+.has-negro-text .integrante p,
+.has-gris-text .integrante p,
+.has-azul-text .integrante svg,
+.has-azul-oscuro-text .integrante svg, 
+.has-negro-text .integrante svg,
+.has-gris-text .integrante svg {
+    color: white;
+}
+.has-azul-text h2:before,
+.has-azul-oscuro-text h2:before,
+.has-negro-text h2:before,
+.has-gris-text h2:before {
+    background: white;
+}
+
+.integrante p {
+    font-size: 1.1rem;
+}
+.integrante p.nombre {
+    font-size: 2rem;
+}
